@@ -1,0 +1,20 @@
+{
+  "name": "algoritmos-4-semestre",
+  "version": "1.0.0",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danamelisa-g/semestre4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danamelisa-g/semestre4/issues"
+  },
+  "homepage": "https://github.com/Danamelisa-g/semestre4#readme",
+  "description": ""
+}
